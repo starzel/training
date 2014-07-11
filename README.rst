@@ -2,4 +2,6 @@
 Mastering Plone has moved
 =========================
 
-If you are not redirected automatically, please follow this <a href='http://plone-training.readthedocs.org'>link to the Mastering Plone Documentation</a>
+Mastering Plone Documentation has moved to http://plone-training.readthedocs.org
+
+The repository has moved to https://github.com/plone/training
